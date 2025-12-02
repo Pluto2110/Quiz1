@@ -1,0 +1,15 @@
+body {
+  font-size: 18px;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+.navbar .nav-link {
+  padding-top: 0.9rem;
+  padding-bottom: 0.9rem;
+}
